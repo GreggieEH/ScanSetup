@@ -1,0 +1,2 @@
+# ScanSetup
+Define SciSpec scans
